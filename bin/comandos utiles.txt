@@ -1,0 +1,6 @@
+QListWidgetItem:
+    addItem() : To add QListWidgetItem object in list
+    addItems() : To add multiple QListWidgetItem objects
+    insertItem() : It adds item at specified position
+    clear() : To delete all the items present in the list
+    count() : To count number of items present in the list
